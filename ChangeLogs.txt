@@ -1,0 +1,35 @@
+10.11.18
+
+#
+1.purchase order
+-select from purchase request + drill down item details
+
+
+#Dev
+1. delete/edit of qty in purchase order
+2. saving of purchase order
+3. design for items in drill down
+
+
+10.15.18
+1.purchase order
+-delivery date
+-document date
+
+
+10.17.18
+1.purchase order
+2.purchase request
+
+#dev
+1. user identity
+2. enhancement for po/pr
+3. account model
+
+10.18.18
+1. user login
+2. new template
+
+
+
+
